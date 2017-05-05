@@ -1,0 +1,88 @@
+<html>
+  <head>
+		<title>Crise da PM - ES</title>
+		<link href="https://fonts.googleapis.com/css?family=Arvo|Playfair+Display|Roboto+Slab" rel="stylesheet">
+		<link rel="shortcut icon" href="https://doity.com.br/media/doity/eventos/evento-5144-logo_organizador.png" type="image/x-png">
+
+
+		<style>
+		ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #6E8BC3;
+		}
+		footer {
+			background-color: #6E8BC3;
+			padding: 15px 15px;
+		}
+		body {
+			background-color: #f8f8f8
+		}
+		* {
+		margin: 0;
+		font-family: Playfair-Display;
+		}
+		h1 {
+			font-family: Arvo;
+			text-align: center;
+		}
+		li {
+		float: left;
+		}
+		article img {
+			padding-right: 20px;
+		}
+		.artigos-1 {
+			background-color: #e8e8e8;
+			padding: 20px 20px;
+			overflow: auto;
+			border-bottom: 1px dashed black;
+			border-top: 1px dashed black;
+		}
+		.artigos-2 {
+			background-color: #f8f8f8;
+			padding: 20px 20px;
+			overflow: auto;
+		}
+		h2 {
+			font-family: roboto-slab;
+		}
+		li a {
+		color: black;
+		display: block;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		}
+		li a:hover:not(.active) {
+		background-color: #f1f1f1;
+		}
+		.ativo {
+		background-color:  lightblue;
+		}
+		</style>
+	</head>
+  <body>
+	  	<font face="verdana">
+	  	<header>
+           <img src="http://image.prntscr.com/image/7b89d1e1dfff4ee5a2a9245f163262c6.png" width="100%" >
+	  	</header>
+
+	  	<nav>
+  		<ul>
+      		<li><a href="#index">Home</a></li>
+      		<li><a href="#diario">Diário</a></li>
+      		<li><a href="#sobre">Sobre</a></li>
+      		<li style="float:right"><img src="https://doity.com.br/media/doity/eventos/evento-5144-logo_organizador.png" width="40px" height="40px">
+	  	</ul>
+	  </nav>
+
+	  <br> <br> <br>
+
+			  <h1> A CRISE MILITAR NO ESPÍRITO SANTO </h1>
+
+    <br> <br> <br>
+    </body>
+ </html>
